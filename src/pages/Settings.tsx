@@ -85,7 +85,7 @@ const Settings = () => {
             <CardHeader>
               <CardTitle>Change Password</CardTitle>
               <CardDescription>
-                Update your password to keep your account secure
+                Update your password to keep your account secure.
               </CardDescription>
             </CardHeader>
             <CardContent>
